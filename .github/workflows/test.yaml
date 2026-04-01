@@ -20,4 +20,4 @@ jobs:
           date
 
       - name: Hello
-        run: echo "Helooo...!"
+        run: echo "Helooo Main...!"
